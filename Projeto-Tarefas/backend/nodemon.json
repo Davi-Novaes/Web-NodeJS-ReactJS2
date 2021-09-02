@@ -1,0 +1,12 @@
+{
+    "watch": ["src"],
+    "exit": "ts",
+    "execMap": {
+        "ts": "ts-node src/index.ts"
+    }
+}
+
+
+
+
+
